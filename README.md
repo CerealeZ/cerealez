@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi! I'm Samuel José Haro 🍓
+
+Hi, I'm a front-end developer, interested in solving logical problems and implementing clean code.
+
+Always improving and learning. 🌟
 
 <!--
 **CerealeZ/cerealez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
