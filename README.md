@@ -1,12 +1,11 @@
 # Samuel José Haro
+Software Engineer – A JavaScript/TypeScript enjoyer.
 
-Software Engineer - A Javascript/Typescript enjoyer.
+- Building amazing stuff in Node.  
+- Passionate about accessibility.  
+- Hopelessly in love with CSS 💜  
 
-- Building amazing stuff in Node.
-- Accesibility caring.
-- I love CSS so bad 💜
-
-Trying to reach me? Check my links! _All it costs is your love!_
+Trying to reach me? Check my links! *All it costs is your love!*
 
 <!--
 **CerealeZ/cerealez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
