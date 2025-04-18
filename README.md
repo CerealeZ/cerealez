@@ -1,8 +1,12 @@
-# Hi! I'm Samuel José Haro 🍓
+# Samuel José Haro
 
-Hi, I'm a front-end developer, interested in solving logical problems and implementing clean code.
+Software Engineer - A Javascript/Typescript enjoyer.
 
-Always improving and learning. 🌟
+- Building amazing stuff in Node.
+- Accesibility caring.
+- I love CSS so bad 💜
+
+Trying to reach me? Check my links! _All it costs is your love!_
 
 <!--
 **CerealeZ/cerealez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
